@@ -1,0 +1,46 @@
+/* div{
+    background-color: green;
+    text-align: center;
+    color: white;
+    padding: 25px;
+
+}
+div:hover{
+    background-color: blue; */
+/* } */
+/* p{
+    display: none;
+    padding: 25px;
+    background-color: yellow;
+}
+div:hover p{
+    display: block; 
+}*/
+/* p:first-child{
+    background-color: blue;
+    color: white;
+} */
+ /* p i:first-child {
+    color:blue
+ } */
+/* q:lang(no){
+    quotes: "~""~"; */
+/* p:nth-child(2){
+    background-color: red;
+} */
+/* p::first-line{
+    color: red;
+    font-size: 40px;
+}
+p::first-letter{
+    color: blue;
+    font-size: 60px;
+} */
+::marker{
+    color: green;
+    font-size: 30px;
+}
+::selection{
+    color: red;
+    background: chartreuse;
+}
